@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Ground Pass"},
+  {"id": 2, "name": "Low Pass"},
+  {"id": 3, "name": "High Pass"}
+]

@@ -1,0 +1,20 @@
+[
+  {"id": 4, "name": "Won"},
+  {"id": 13, "name": "Lost In Play"},
+  {"id": 14, "name": "Lost Out"},
+  {"id": 15, "name": "Success"},
+  {"id": 16, "name": "Success In Play"},
+  {"id": 17, "name": "Success Out"},
+  {"id": 47, "name": "Claim"},
+  {"id": 48, "name": "Clear"},
+  {"id": 49, "name": "Collected Twice"},
+  {"id": 50, "name": "Fail"},
+  {"id": 51, "name": "In Play"},
+  {"id": 52, "name": "In Play Danger"},
+  {"id": 53, "name": "In Play Safe"},
+  {"id": 55, "name": "No Touch"},
+  {"id": 56, "name": "Saved Twice"},
+  {"id": 58, "name": "Touched In"},
+  {"id": 59, "name": "Touched Out"},
+  {"id": 117, "name": "Punched Out"}
+]

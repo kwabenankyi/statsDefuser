@@ -1,0 +1,10 @@
+[
+  {"id": 96, "name": "Blocked"},
+  {"id": 97, "name": "Goal"},
+  {"id": 98, "name": "Off T"},
+  {"id": 99, "name": "Post"},
+  {"id": 100, "name": "Saved"},
+  {"id": 101, "name": "Wayward"},
+  {"id": 115, "name": "Saved Off T"},
+  {"id": 116, "name": "Saved To Post"}
+]

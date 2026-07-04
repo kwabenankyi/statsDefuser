@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "Lost"},
+  {"id": 4, "name": "Won"},
+  {"id": 13, "name": "Lost In Play"},
+  {"id": 14, "name": "Lost Out"},
+  {"id": 15, "name": "Success"},
+  {"id": 16, "name": "Success In Play"},
+  {"id": 17, "name": "Success Out"}
+]
